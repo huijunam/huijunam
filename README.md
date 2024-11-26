@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img width="1291" alt="image" src="https://github.com/user-attachments/assets/ea61e184-ba4a-40dd-b612-693d797377ad">
+  <img width="1293" alt="image" src="https://github.com/user-attachments/assets/8c80f2aa-b37c-4124-b949-099e553f19f0">
 </div>
 
