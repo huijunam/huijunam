@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **huijunam/huijunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img width="1291" alt="image" src="https://github.com/user-attachments/assets/ea61e184-ba4a-40dd-b612-693d797377ad">
+</div>
+
